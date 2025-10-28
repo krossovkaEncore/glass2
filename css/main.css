@@ -17,8 +17,13 @@ body{
     backdrop-filter: blur(20px);
     padding: 2%;
     border-radius: 30px;
+<<<<<<< HEAD
     border: 2px solid rgba(255, 255, 255, 0.3);
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+=======
+    border: 2px solid rgba(255, 255, 255, 0.30);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.108);
+>>>>>>> 901c1b625e93cf31576e6b3565d89150e9aa721d
 }
 
 header{
@@ -31,8 +36,13 @@ header > .left{
     width: 25%;
 }
 .search{
+<<<<<<< HEAD
     background-color: rgba(255, 255, 255, 0.3);
     border: 1px solid rgba(255, 255, 255, 0.3);
+=======
+    background-color: rgba(255, 255, 255, 0.139);
+    border: 1px solid rgba(255, 255, 255, 0.337);
+>>>>>>> 901c1b625e93cf31576e6b3565d89150e9aa721d
     display: flex;
     gap: 13px;
     align-items: center;
@@ -70,15 +80,26 @@ header > .right{
     border: 1px solid transparent;
 }
 .right > nav > a:hover{
+<<<<<<< HEAD
     background-color: rgba(255, 255, 255, 0.3);
     box-shadow: 0 0 5px rgba(255, 255, 255, 0.3);
     border: 1px solid rgba(255, 255, 255, 0.3);
+=======
+    background-color: rgba(255, 255, 255, 0.228);
+    box-shadow: 0 0 5px rgba(255, 255, 255, 0.377);
+    border: 1px solid rgba(255, 255, 255, 0.337);
+>>>>>>> 901c1b625e93cf31576e6b3565d89150e9aa721d
 }
 
 
 .right > nav > .active{
+<<<<<<< HEAD
     background-color: rgba(255, 255, 255, 0.3);
     border: 1px solid rgba(255, 255, 255, 0.3);
+=======
+    background-color: rgba(255, 255, 255, 0.228);
+    border: 1px solid rgba(255, 255, 255, 0.337);
+>>>>>>> 901c1b625e93cf31576e6b3565d89150e9aa721d
     padding: 0 30px;
     height: 100%;
     display: flex;
@@ -87,14 +108,23 @@ header > .right{
     border-radius: 100px;
 }
 .right > nav > .active:hover{
+<<<<<<< HEAD
     box-shadow: 0 0 5px rgba(255, 255, 255, 0.3);
+=======
+    box-shadow: 0 0 5px rgba(255, 255, 255, 0.377);
+>>>>>>> 901c1b625e93cf31576e6b3565d89150e9aa721d
 }
 .notification{
     width: 50px;
     height: 50px;
     border-radius: 100px;
+<<<<<<< HEAD
     background-color: rgba(255, 255, 255, 0.3);
     border: 1px solid rgba(255, 255, 255, 0.3);
+=======
+    background-color: rgba(255, 255, 255, 0.228);
+    border: 1px solid rgba(255, 255, 255, 0.337);
+>>>>>>> 901c1b625e93cf31576e6b3565d89150e9aa721d
     display: flex;
     align-items: center;
     justify-content: center;
@@ -103,13 +133,22 @@ header > .right{
     transition: all 0.3s ease;
 }
 .notification:hover{
+<<<<<<< HEAD
     box-shadow: 0 0 5px rgba(255, 255, 255, 0.3);
+=======
+    box-shadow: 0 0 5px rgba(255, 255, 255, 0.377);
+>>>>>>> 901c1b625e93cf31576e6b3565d89150e9aa721d
 }
 
 .user{
     height: 100%;
+<<<<<<< HEAD
     background-color: rgba(255, 255, 255, 0.3);
     border: 1px solid rgba(255, 255, 255, 0.3);
+=======
+    background-color: rgba(255, 255, 255, 0.228);
+    border: 1px solid rgba(255, 255, 255, 0.337);
+>>>>>>> 901c1b625e93cf31576e6b3565d89150e9aa721d
     border-radius: 100px;
     padding: 0 6px;
     display: flex;
@@ -133,7 +172,11 @@ header > .right{
 }
 
 .userinfo > .tag{
+<<<<<<< HEAD
     color: rgba(255, 255, 255, 0.3);
+=======
+    color: rgba(255, 255, 255, 0.732);
+>>>>>>> 901c1b625e93cf31576e6b3565d89150e9aa721d
     font-size: 14px;
     font-weight: 300;
 }
